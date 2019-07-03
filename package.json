@@ -1,0 +1,30 @@
+{
+  "name": "nextjs-project",
+  "version": "1.0.0",
+  "description": "Nextjs+OAuth授权体系+React Hooks+Koa+Redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node ./server.js",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaughSun0513/Nextjs-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaughSun0513/Nextjs-demo/issues"
+  },
+  "homepage": "https://github.com/LaughSun0513/Nextjs-demo#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
