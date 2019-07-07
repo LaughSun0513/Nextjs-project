@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/LaughSun0513/Nextjs-demo#readme",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.20.0",
+    "babel-plugin-import": "^1.12.0",
+    "ioredis": "^4.11.1",
     "koa": "^2.7.0",
     "koa-router": "^7.4.0",
     "next": "^8.1.0",
