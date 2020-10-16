@@ -306,6 +306,7 @@ export default App;
 ## 目录结构
 - pages目录下的js文件就对应来URL里的路由，比如pages/a.js--->对应http://localhost:3000/a.js
 - 其他目录
+```
 
 >├── components 组件<br>
 ├── lib <br>
@@ -315,6 +316,7 @@ export default App;
 │   └── index.js<br>
 ├── server.js<br>
 ├── static 静态资源<br>
+```
 
 ## 路由基础
 ### Link组件--next/link
